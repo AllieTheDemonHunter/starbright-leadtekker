@@ -1,5 +1,0 @@
-leadtrekker.admin_settings:
-  route_name: leadtrekker.admin_settings
-  title: 'Leadtrekker integration settings'
-  description: 'Set up Leadtrekker integration and leads insertion.'
-  parent: system.admin_config_services
