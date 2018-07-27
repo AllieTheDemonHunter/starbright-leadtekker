@@ -3,7 +3,6 @@
     "description": "Integrates Leadtrekker in Drupal.",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "version": "1.0",
     "authors": [
         {
             "name": "Allie du Plooy",
