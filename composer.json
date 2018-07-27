@@ -6,7 +6,9 @@
     "authors": [
         {
             "name": "Allie du Plooy",
-            "role": "Developer"
+            "role": "Developer",
+            "homepage": "http://allie.co.za",
+            "email": "allie.rockdev@gmail.com"
         }
     ],
     "repositories": [
