@@ -5,8 +5,8 @@
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "",
-            "role": ""
+            "name": "Allie du Plooy",
+            "role": "Developer"
         }
     ],
     "repositories": [
@@ -33,7 +33,7 @@
         "drupal/drupal": "*"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": false,
     "config": {
         "sort-packages": true
     },
